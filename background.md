@@ -1,14 +1,22 @@
-# **Background Information for Credit Cards**
+# 💳 Background Info on Credit Cards
 
-- Credit cards are extremely useful financial tools that can be used to help advance your journey
-- You spend on a credit card just like you spend on a debit card, but you end up paying all the money you spend back at the end of your 30 day billing period
-- If you pay off your card in full and on time each month, effectively you are increasing your credit score and potentially earning rewards in the process
+Credit cards are financial tools that allow you to borrow money up to a certain limit and pay it back later. Debit cards take the money out of your account instantly, but with credit cards, you pay that money back at the end of your billing cycle. They are widely used for convenience, rewards, and building credit history.
 
-## ✨ **Rewards Options (Dependent on Which Card You Have)**
-- Cash Back
-- Points for Travel
+## 📌 Key Concepts
+- **Issuer**: The bank or company that provides the card.
+- **Limit**: The maximum amount you can borrow.
+- **APR (Annual Percentage Rate)**: The interest charged if you don’t pay in full.
+- **Rewards**: Points, cash back, or miles earned on purchases.
+
+## 📊 Types of Credit Cards
+| Type              | Description                                | Example Use Case          |
+|-------------------|--------------------------------------------|---------------------------|
+| Standard          | Basic card with no rewards                 | Everyday purchases        |
+| Rewards           | Offers points, miles, or cash back         | Travel, dining, shopping  |
+| Secured           | Requires a deposit as collateral           | Building credit history   |
+| Business          | Designed for company expenses              | Managing business costs   |
 
 ---
 
-➡️ [Next: Score](score.md)  
+➡️ [Next: Credit Score Information](score.md)  
 ⬅️ [Back to Home](README.md)
