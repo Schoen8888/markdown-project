@@ -1,14 +1,12 @@
 # Markdown Project
 
-Welcome to Lucas' markdown project! This repository shows different features through markdown.
+Welcome to **Lucas' Markdown Project!** This repository shows different features through markdown.
 
 ## Pages
-- [History](history.md)
-- [Technology](technology.md)
-- [Hobbies](hobbies.md)
-- [References](references.md)
-
+- [Background](background.md)
+- [Score](score.md)
+- [Steps](steps.md)
 ---
 
 ## Navigation
-- [Next ➡️ Technology](technology.md)
+- [Next ➡️ Background](background.md)
