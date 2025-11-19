@@ -1,6 +1,6 @@
 # 🌐 Credit Knowledge Project
 
-Welcome! This repo explores **credit cards, credit scores, and ways to improve your score**.
+Welcome! This repository explores **credit cards, credit scores, and ways to improve your score**.
 
 ## 📖 Contents
 - [Background Info on Credit Cards](background.md)
